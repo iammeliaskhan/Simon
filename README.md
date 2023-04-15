@@ -12,14 +12,14 @@ You need a web browser to run this application.
 
 ## Installation
 1. Clone the repository using Git:
-  ```bash
-      git clone https://github.com/iammeliaskhan/Simon.git
-  ```
+    ```bash
+        git clone https://github.com/iammeliaskhan/Simon.git
+    ```
 
 2. Navigate to the project directory:
-  ```bash
-      cd Simon
-  ```
+    ```bash
+        cd Simon
+    ```
 
 3.  Open `index.html` in your web browser.
 ## Usage
